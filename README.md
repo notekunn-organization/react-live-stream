@@ -5,6 +5,10 @@ Ghép đôi nam nữ ngay trên stream
   ```bash
   git clone https://github.com/my-shit-project/react-live-stream
   ```
+- Install package
+  ```bash
+  npm install
+  ```
 - Config file .env
   ```bash
   cp .env.example .env
